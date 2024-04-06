@@ -1,5 +1,7 @@
 # HyperV-NewVM
 
+![newmachine](https://github.com/dakhama-mehdi/HyperV-NewVM/assets/49924401/eb0b1b61-d12b-4e44-971b-046bee44bc52)
+
 This PowerShell script enables the quick and easy creation of Hyper-V virtual machines under a GUI through a user-friendly graphical interface, eliminating the need for manual command line input.
 
 ## Features
