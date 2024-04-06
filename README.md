@@ -1,7 +1,5 @@
 # HyperV-NewVM
 
-# Project Name
-
 This PowerShell script enables the quick and easy creation of Hyper-V virtual machines under a GUI through a user-friendly graphical interface, eliminating the need for manual command line input.
 
 ## Features
